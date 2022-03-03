@@ -1,0 +1,89 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.fl-c{
+    display: flex;
+    height: 45vh;
+    border: 1px solid grey;
+}
+.fl-c .d1{
+    color: white;
+  border: 1px solid black;
+  width: 50px;
+  height: 50px;
+  font-size: 12px;
+  background-color: green;
+  margin: 5px;
+}
+.fl-c .d2{
+    color: white;
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+    font-size: 12px;
+    background-color: green;
+    margin: 5px;
+  }
+  .fl-c .d3{
+    color: white;
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+    font-size: 12px;
+    background-color: green;
+    margin: 5px;
+  }
+  .navbar{
+      background-color: black;
+      border: 30px;
+      display: block;
+  }
+  .navbar ul{
+      overflow: auto;
+     margin-bottom: 0px;
+  }
+  .navbar li{
+      float: left;
+     list-style: none;
+     margin: 13px 20px;
+      
+  }
+  .navbar li a{
+    text-decoration: none;
+    padding: 3px 3px;
+    color: white;
+  }
+  .navbar li a:hover{
+      transform: 0.5s;
+      color: grey;
+  }
+  .search{
+      float: right;
+      color: white;
+      padding: 12px 75px;
+  }
+  .nabar input{
+      border: 2px solid black;
+      border-radius: 14px;
+      padding: 3px 17px;
+      width: 129px;
+  }
+  .container{
+    border: 2px solid green;
+  }
+ .c1{
+    border: 1px solid black;
+     
+     margin: 5px;
+ }
+ .c2{
+    border: 1px solid black;
+    
+    margin: 5px;
+}
+.c3{
+    border: 1px solid black;
+   
+    margin: 5px;
+}
